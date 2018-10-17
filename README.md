@@ -9,4 +9,5 @@
 Functional:
 - Easy tab navigation;
 - Create new document;
-- Open/Edit/Read/Save/Write file.
+- Open/Edit/Read/Save/Write file;
+- JavaFX controls.
